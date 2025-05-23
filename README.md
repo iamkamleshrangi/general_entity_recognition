@@ -2,7 +2,7 @@
 
 Named Entity Recognition (NER) is like teaching machines to play detective—spotting and tagging names, places, and organizations hidden in the wild jungle of text
 
-<img src="screenshot/app.png" alt="App Screenshot" width="100" height="100"/>
+<img src="screenshot/app.png" alt="App Screenshot" width="400" height="400"/>
 
 ## Features
 
